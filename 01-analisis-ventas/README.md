@@ -18,24 +18,26 @@ Base de datos relacional con 5 tablas · 300 pedidos · 776 líneas de detalle �
 Período: enero 2023 – diciembre 2024
 
 ## Proceso
+
 **SQL — Exploración y análisis**
 - Carga de datos en SQL con 5 tablas relacionadas.
 - Escritura de 8 queries de análisis: productos por categoría, ventas totales por región, 
   ventas totales por región y categoría, top 5 productos, clientes que cancelaron pedidos,
   ticket promedio, vendedores con más ventas, evolución de ventas mensuales.
 - Filtrado de pedidos por estado para trabajar solo con ventas completadas.
+
 **Power BI — Visualización**
 - Conexión al archivo Excel como fuente de datos.
 - Modelado de relaciones entre las 5 tablas (modelo estrella).
 - Creación de 5 medidas DAX: Ventas Totales, Ventas completadas,
   Total de pedidos, Ticket Promedio y Tasa de cancelación.
 - Dashboard de una página con KPIs, evolución mensual, 
-  ventas por región y Top 5 productos por revenue.
+  ventas por región y Top 5 productos por ingresos.
 - Slicer interactivo para filtrar por año (2023 / 2024).
 
 ## Resultados (pedidos completados · 2023-2024)
- - Revenue total $1,60M
- - Total de pedidos 300
+ - Ingresos totales $1,60M
+ - 300 pedidos totales
  - Ticket promedio $5,32K
  - Tasa de cancelación 6%
 
