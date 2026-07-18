@@ -38,4 +38,3 @@ Período: enero 2023 – diciembre 2024
 |---------|-------------|
 | `analisis_ventas.sql` | 8 queries de análisis en SQL |
 | `analisis_ventas.pbix` | Dashboard interactivo en Power BI |
-|
