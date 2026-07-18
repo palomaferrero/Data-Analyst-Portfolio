@@ -42,7 +42,7 @@ Período: enero 2023 – diciembre 2024
  - Tasa de cancelación 6%
 
 ## Principales insights
- * 🏆 **Sur** es la región con mayor revenue ($518K), seguida por Norte ($366K).
+ * 🏆 **Sur** es la región con mayores ingresos ($518K), seguida por Norte ($366K).
  * 📦 **Laptop Pro 15** es el producto top con $530K en ventas totales.
  * 👤 **Carlos López** lidera el ranking de vendedores con $290K.
  * 🛍️ **Retail** tiene el ticket promedio más alto por segmento ($9.681).
@@ -54,3 +54,4 @@ Período: enero 2023 – diciembre 2024
 |---------|-------------|
 | `analisis_ventas.sql` | 8 queries de análisis en SQL |
 | `analisis_ventas.pbix` | Dashboard interactivo en Power BI |
+| `dashboard_preview.png` | Print de pantalla del dashboard |
