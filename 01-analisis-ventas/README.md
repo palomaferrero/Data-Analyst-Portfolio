@@ -1,7 +1,5 @@
 # 📊 Proyecto 1 — Análisis de Ventas · TechSell S.A.
 
-![Preview del Dashboard](dashboard_preview.png)
-
 ## Problema
 Una empresa de tecnología B2B necesita entender el comportamiento de sus ventas 
 para tomar mejores decisiones comerciales. No tiene visibilidad clara de qué 
@@ -44,12 +42,12 @@ Período: enero 2023 – diciembre 2024
  - Tasa de cancelación 6%
 
 ## Principales insights
- * 🏆 **Sur** es la región con mayores ingresos ($518K), seguida por Norte ($366K).
- * 📦 **Laptop Pro 15** es el producto top con $530K en ventas totales.
- * 👤 **Carlos López** lidera el ranking de vendedores con $290K.
- * 🛍️ **Retail** tiene el ticket promedio más alto por segmento ($9.681).
- * ⚠️ **FastGrow Startup** es el cliente con más pedidos cancelados (4).
- * 📅 El dashboard permite comparar la evolución mensual de las ventas entre 2023 y 2024.
+ * **Sur** es la región con mayores ingresos ($518K), seguida por Norte ($366K).
+ * **Laptop Pro 15** es el producto top con $530K en ventas totales.
+ * **Carlos López** lidera el ranking de vendedores con $290K.
+ * **Retail** tiene el ticket promedio más alto por segmento ($9.681).
+ * **FastGrow Startup** es el cliente con más pedidos cancelados (4).
+ * El dashboard permite comparar la evolución mensual de las ventas entre 2023 y 2024.
 
 ## Recomendaciones
 - Analizar por qué la región sur es la zona líder para replicar su estrategia en las demás regiones.
