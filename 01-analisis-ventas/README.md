@@ -49,6 +49,11 @@ Período: enero 2023 – diciembre 2024
  * ⚠️ **FastGrow Startup** es el cliente con más pedidos cancelados (4).
  * 📅 El dashboard permite comparar la evolución mensual de las ventas entre 2023 y 2024.
 
+## Recomendaciones
+- Analizar por qué la región sur es la zona líder para replicar su estrategia en las demás regiones.
+- Priorizar campañas comerciales en el segmento retail por tener el ticket promedio más alto.
+- Monitorear de cerca al cliente FastGrow Startup por registrar la mayor cantidad de cancelaciones.
+
 ## Archivos
 | Archivo | Descripción |
 |---------|-------------|
