@@ -1,5 +1,7 @@
 # 📊 Proyecto 1 — Análisis de Ventas · TechSell S.A.
 
+![Preview del Dashboard](dashboard_preview.png)
+
 ## Problema
 Una empresa de tecnología B2B necesita entender el comportamiento de sus ventas 
 para tomar mejores decisiones comerciales. No tiene visibilidad clara de qué 
