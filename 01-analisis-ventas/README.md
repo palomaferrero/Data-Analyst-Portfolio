@@ -1,9 +1,7 @@
 # 📊 Proyecto 1 — Análisis de Ventas · TechSell S.A.
 
-![Preview del Dashboard](dashboard_preview.png)
-
 ## Problema
-Una empresa de tecnología B2B necesita entender el comportamiento de sus ventas para tomar mejores decisiones comerciales. No tiene visibilidad clara de qué regiones, productos y vendedores generan más revenue.
+Una empresa de tecnología necesita entender el comportamiento de sus ventas para tomar mejores decisiones comerciales. No tiene visibilidad clara de qué regiones, productos y vendedores generan más ingresos.
 
 ## Solución
 Análisis exploratorio de 2 años de datos de ventas (2023-2024) con métricas clave por región, producto y vendedor, visualizadas en un dashboard interactivo.
@@ -36,17 +34,17 @@ Base de datos relacional con 5 tablas · 300 pedidos · 776 líneas de detalle �
 - Tasa de cancelación 6%
 
 ## Principales insights
-* 🏆 **Sur** es la región con mayores ingresos ($518K), seguida por Norte ($366K).
-* 📦 **Laptop Pro 15** es el producto top con $530K en ventas totales.
-* 👤 **Carlos López** lidera el ranking de vendedores con $290K.
-* 🛍️ **Retail** tiene el ticket promedio más alto por segmento ($9.681).
-* ⚠️ **FastGrow Startup** es el cliente con más pedidos cancelados (4).
-* 📅 El dashboard permite comparar la evolución mensual de las ventas entre 2023 y 2024.
+* **Sur** es la región con mayores ingresos ($518K), seguida por Norte ($366K).
+* **Laptop Pro 15** es el producto top con $530K en ventas totales.
+* **Carlos López** lidera el ranking de vendedores con $290K.
+* **Retail** tiene el ticket promedio más alto por segmento ($9.681).
+* **FastGrow Startup** es el cliente con más pedidos cancelados (4).
+* El dashboard permite comparar la evolución mensual de las ventas entre 2023 y 2024.
 
-## 🚀 Próximos Pasos (Negocio)
-- **Región Sur:** Analizar por qué es la zona líder para replicar su estrategia en las demás regiones.
-- **Segmento Retail:** Priorizar campañas comerciales en este canal por tener el ticket promedio más alto.
-- **FastGrow Startup:** Monitorear de cerca a este cliente por registrar la mayor cantidad de cancelaciones.
+## Recomendaciones
+- Analizar por qué la **región Sur** es la zona líder, para replicar su estrategia en las demás regiones.
+- Priorizar campañas comerciales en el **segmento Retail** por tener el ticket promedio más alto.
+- Monitorear de cerca al cliente **FastGrow Startup** por registrar la mayor cantidad de cancelaciones.
 
 ## Archivos
 | Archivo | Descripción |
