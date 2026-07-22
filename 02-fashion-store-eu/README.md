@@ -37,7 +37,7 @@ Base de datos compuesta por **7 tablas interconectadas** (sales, salesitems, pro
 ## Principales insights
 * El canal **E-commerce** representa el 53% de las ventas totales, superando levemente a la **App Mobile** (47%).
 * **Alemania** encabeza el volumen de ventas (221 transacciones) y la facturación total ($74,59K), seguido por **Francia** e **Italia**.
-* **Comportamiento mensual:** **Mayo** registró el pico más alto de ventas ($141.922,21 USD), seguido por **Abril** ($133.392,44 USD), mientras que en **Junio** se observa una caída significativa ($48.922,01 USD).
+* **Mayo** registró el pico más alto de ventas ($141.922,21 USD), seguido por **Abril** ($133.392,44 USD), mientras que en **Junio** se observa una caída significativa ($48.922,01 USD).
 * **T-Shirts**, **Shoes** y **Dresses** son las tres categorías con mayor margen de ganancia, superando todas los $29.000 USD de margen.
 * Se identificaron artículos con bajo stock disponible (entre 1 y 3 unidades) concentrados principalmente en la categoría *Pants*.
 
