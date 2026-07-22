@@ -13,3 +13,6 @@ Análisis exploratorio de 2 años de datos de ventas con dashboard interactivo.
 Extracción y modelado de datos en SQL con posterior desarrollo de dashboard de ventas y stock en Excel.
 **Herramientas:** SQL · Excel
 [Ver proyecto](./02-fashion-store-eu)
+
+---
+*En construcción — próximamente más proyectos.*
