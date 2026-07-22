@@ -11,7 +11,7 @@ Análisis integral de ventas, clientes e inventario correspondiente al período 
 * **Excel** — modelado relacional (utilizando BUSCARX), tablas dinámicas, alertas de stock y dashboard interactivo
 
 ## Dataset
-Base de datos compuesta por **7 tablas interconectadas** (sales, salesitems, products, stock, customers, stores, campaigns). Período analizado: abril 2025 – junio 2025.
+Base de datos compuesta por **7 tablas interconectadas** (sales, salesitems, products, stock, customers, channels, campaigns). Período analizado: abril 2025 – junio 2025.
 
 ## Proceso
 
