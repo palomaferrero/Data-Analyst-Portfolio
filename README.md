@@ -1,18 +1,15 @@
-## 📊 Data Analyst Portfolio · Paloma Ferrero
+# 📊 Data Analyst Portfolio · Paloma Ferrero
 
-Portfolio de proyectos de análisis de datos desarrollados con SQL, Power BI y Excel.
+Portfolio of data analysis projects developed with SQL, Power BI, and Excel.
 
-## Proyectos
+## Projects
 
-### 01 · Análisis de Ventas — TechSell S.A.
-Análisis exploratorio de 2 años de datos de ventas con dashboard interactivo.
-**Herramientas:** SQL · Power BI
-[Ver proyecto](./01-analisis-ventas)
+### 01 · Sales Analytics — TechSell S.A.
+Exploratory data analysis of 2 years of sales data featured in an interactive dashboard. **Tools:** SQL · Power BI [View Project](./01-analisis-ventas)
 
-### 02 · Análisis de Ventas e Inventario — Fashion Store EU
-Análisis de ventas, clientes e inventario con extracción en SQL y dashboard interactivo en Excel.
-**Herramientas:** SQL · Excel
-[Ver proyecto](./02-fashion-store-eu)
+### 02 · Sales & Inventory Analytics — Fashion Store EU
+Sales, customer, and inventory analysis powered by SQL extraction and an interactive Excel dashboard. **Tools:** SQL · Excel [View Project](./02-fashion-store-eu)
 
 ---
-*En construcción — próximamente más proyectos.*
+
+*Under construction — more projects coming soon.*
